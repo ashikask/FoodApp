@@ -18,18 +18,17 @@ This SwiftUI app demonstrates advanced animation techniques and swipe gesture in
 
 <img width="247" alt="Screenshot 2024-07-29 at 11 27 15 PM" src="https://github.com/user-attachments/assets/1130133a-886a-4fdd-844c-c81cb451d34d">
 
-
 ## Installation
 
 1. Clone the repository:
-    ```bash
-    git clone [https://github.com/yourusername/your-repository.git](https://github.com/ashikask/FoodApp.git)
-    ```
+   ```bash
+   git clone [https://github.com/yourusername/your-repository.git](https://github.com/ashikask/FoodApp.git)
+   ```
 2. Open the project in Xcode:
-    ```bash
-    cd FoodApp
-    open FoodAppSwiftUI.xcodeproj
-    ```
+   ```bash
+   cd FoodApp
+   open FoodAppSwiftUI.xcodeproj
+   ```
 3. Build and run the project in Xcode.
 
 ## Usage
