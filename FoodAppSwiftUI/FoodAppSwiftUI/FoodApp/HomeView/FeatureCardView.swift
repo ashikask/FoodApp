@@ -15,7 +15,7 @@ struct FeatureCardView: View {
             Image(feature.imageName)
                 .resizable()
                 .aspectRatio(contentMode: .fill)
-                .frame(width: 350, height: 150)
+                .frame(width: 320, height: 150)
                 .clipped()
                 .overlay(alignment: .bottomLeading) {
                     HStack {
@@ -56,6 +56,7 @@ struct FeatureCardView: View {
             .padding(.top, 10)
             .padding(20)
         }
+        
         .background(.white)
         .cornerRadius(10)
         .shadow(radius: 1)

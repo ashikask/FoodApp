@@ -62,7 +62,8 @@ extension Fetaure {
     static var mock: [Fetaure] = [
         Fetaure(name: "Chicken Republic - Lekki", imageName: "featured_image", delivery: "12 mins delivery"),
         Fetaure(name: "Pizza Spot", imageName: "featured_image2", delivery: "12 mins delivery"),
-        Fetaure(name: "Burger King", imageName: "featured_image3", delivery: "12 mins delivery")
+        Fetaure(name: "Burger King", imageName: "featured_image3", delivery: "12 mins delivery"),
+        Fetaure(name: "Burger King Max", imageName: "featured_image3", delivery: "12 mins delivery")
     ]
 }
 
